@@ -1,117 +1,84 @@
-<h1 align="center"><b>Ángela Rojas</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white">
+<h1 align="center">
+  <b>Ángela Rojas</b> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Backend+%26+Frontend+Specialist;2+Years+Freelance+Experience;Passionate+about+building+digital+solutions">
-  </a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Backend+%26+Frontend+Specialist;2%2B+Years+of+Freelance+Experience;Passionate+about+building+digital+solutions">
+  </a>
 </p>
 
-<br>
+---
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About Me**
+## 🚀 About Me 
 
-<picture><img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"></picture>
-
-<br>
-
-- Full Stack Developer (Frontend & Backend)
-- 2 años de experiencia como **freelancer**
-- Especialista en desarrollo con **Laravel, Vue, Tailwind, HTML, CSS, JS**
-- Experiencia trabajando con **Visual Studio**, **Android Studio** y **MySQL**
-- Amante del aprendizaje continuo y la construcción de soluciones reales
-- Abierta a nuevas oportunidades laborales y colaboraciones
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> <b>Skills</b>
+- **Full Stack Developer** specializing in both Frontend and Backend development.
+- **2+ years** of professional experience working as a **freelancer**.
+- Expertise in development with **Laravel, Vue, Tailwind, HTML, CSS, and JavaScript**.
+- Experienced in using development tools like **Visual Studio**, **Android Studio**, and **MySQL**.
+- A continuous learner, passionate about building and delivering high-quality digital solutions.
+- Open to new **job opportunities** and exciting **collaborations**.
 
 <br>
 
-<p align="center">
+---
 
-- **Frontend**
-  
-  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-<br>
-
-- **Backend**
-  
-  ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-<br>
-
-- **Tools & Software**
-
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-
-</p>
-
-<br><br>
-
------
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
-<br>
+## 🛠️ Skills and Technologies
 
 <div align="center">
 
-<a href="https://github.com/angelarojas">
-  <img src="https://github-readme-stats.vercel.app/api?username=angelarojas&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=angelarojas&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"/>
-</a>
+### **Frontend**
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
+    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+  </p>
 
-</div>
+### **Backend & Database**
+  <p>
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  </p>
 
-<br><br>
-
------
-
-## <b> Let's Connect!</b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
-
-<br>
-
-<div align="left">
-<ul>
-
-<li>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-AngelaRojas-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:angelarojas@example.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-AngelaRojas-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</li>
-
-</ul>
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br><br>
-
-<div align="center">
-  
-## <b>🤍 Gracias por visitar mi perfil 🤍</b>
-
+### **Tools & Software**
+  <p>
+    <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
+    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
+  </p>
 </div>
 
 ---
 
+## 📬 Let's Connect! 
+
+<p align="center">
+  Reach out to me, I'm always happy to connect and discuss new projects!
+</p>
+
+<div align="center">
+  <a href="mailto:amprdevcode@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-AngelaRojas-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  </div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TuUsernameDeGitHub&show_icons=true&theme=vue" alt="Angela Rojas GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsernameDeGitHub&layout=compact&theme=vue" alt="Top Languages" />
+</div>
+
+<br>
+
+---
+
+<div align="center">
+  
+## ✨ Thanks for Visiting My Profile! ✨
+
+</div>
