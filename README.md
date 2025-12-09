@@ -62,7 +62,7 @@
 
   <!-- Gmail -->
   <a href="mailto:amprdevcode@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-AngelaRojas-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-amprdevcode@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 
   <!-- Website -->
