@@ -68,17 +68,9 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TuUsernameDeGitHub&show_icons=true&theme=vue" alt="Angela Rojas GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsernameDeGitHub&layout=compact&theme=vue" alt="Top Languages" />
-</div>
-
-<br>
-
----
 
 <div align="center">
   
-## ✨ Thanks for Visiting My Profile! ✨
+✨ Thanks for Visiting My Profile! ✨
 
 </div>
