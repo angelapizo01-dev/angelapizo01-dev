@@ -1,4 +1,5 @@
-<h1 align="center"><b>Hi, I'm Ángela Rojas</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Ángela Rojas</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white">
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
